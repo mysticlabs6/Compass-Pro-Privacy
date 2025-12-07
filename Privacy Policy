@@ -1,0 +1,187 @@
+═══════════════════════════════════════════════════════════════
+
+PRIVACY POLICY
+
+═══════════════════════════════════════════════════════════════
+
+Privacy Policy for Compass Pro
+
+Effective Date: December 7, 2025
+Last Updated: December 7, 2025
+
+PRIVACY FIRST PROMISE
+
+Compass Pro does NOT collect, store, transmit, or share ANY of your personal information. Your compass readings, location data, and all sensor information stay entirely on your device. We take your privacy seriously.
+
+1. INTRODUCTION
+
+Welcome to Compass Pro. This Privacy Policy explains how we handle information when you use our mobile application. We are committed to protecting your privacy and being completely transparent about our practices.
+
+Developer: MysticLabs
+Contact Email: support@mysticlabs.com
+App: Compass Pro
+
+2. INFORMATION WE DO NOT COLLECT
+
+We do NOT collect:
+- Personal information (name, email, phone number)
+- Location tracking data
+- Browsing history or app usage patterns
+- User data for sharing with third parties
+- Cookies or tracking technologies
+- User accounts or profiles
+- Access to photos, contacts, or personal files
+- Background tracking when app is not in use
+
+3. HOW COMPASS PRO WORKS
+
+Compass Pro operates entirely on your device with zero data transmission to servers.
+
+SENSOR DATA (Magnetometer & Accelerometer):
+- Reads your device's compass and motion sensors
+- Processed locally on your device only
+- Not stored anywhere - used in real-time only
+- NEVER transmitted off your device
+
+LOCATION DATA (GPS):
+- Used to display coordinates and calculate true north
+- Calculated entirely on your device
+- Not stored permanently - only while app is active
+- NEVER sent to any server or third party
+- Optional - app works without location permission (magnetic north only)
+
+APP SETTINGS:
+- Theme preference, measurement units, north type stored locally
+- Stored on your device using Android's secure storage
+- Only accessible by Compass Pro on your device
+- Never transmitted anywhere
+
+4. THIRD-PARTY SERVICES
+
+GOOGLE ADMOB (ADVERTISING):
+This app displays advertisements through Google AdMob. AdMob may collect:
+- Advertising ID (unique, resettable ID for advertising)
+- Device information (device type, OS version)
+- IP address (for general location - city/country level)
+- App interaction data (ads viewed or clicked)
+
+IMPORTANT: This data is collected by Google, not by us. We do not have access to this information.
+
+Google's Privacy Policy: https://policies.google.com/privacy
+
+HOW TO CONTROL AD PERSONALIZATION:
+- Android: Settings → Google → Ads → Opt out of Ads Personalization
+- Reset Advertising ID: Settings → Google → Ads → Reset advertising ID
+- Remove ads: Purchase ad-free version for $0.99
+
+GOOGLE PLAY BILLING:
+- Payment processing handled securely by Google Play
+- We do NOT access your payment information
+- We only receive purchase confirmation
+- Purchase status stored locally on your device
+
+5. PERMISSIONS EXPLAINED
+
+ACCESS_FINE_LOCATION:
+- Why: Display coordinates and calculate true north
+- How: GPS coordinates processed locally and displayed
+- Transmission: Never transmitted anywhere
+- Optional: Deny permission - app still works with magnetic north
+
+INTERNET:
+- Why: Display advertisements from Google AdMob
+- How: Only used by AdMob to download and show ads
+- Note: No other data transmitted
+
+ACCESS_NETWORK_STATE:
+- Why: Check internet availability before loading ads
+- How: Prevents errors when offline
+
+6. CHILDREN'S PRIVACY (COPPA COMPLIANCE)
+
+Compass Pro does not collect any information from children under 13.
+
+Safe for children because:
+- No personal information collected from anyone
+- No account creation required
+- No in-app communication features
+- No social media integration
+- Family-friendly ads filtered by Google
+
+7. DATA RETENTION AND STORAGE
+
+We don't retain any data because we don't collect any data.
+
+Only stored locally:
+- App settings (theme, units, preferences) on your device
+- Purchase status by Google Play
+
+When you uninstall:
+- All local settings automatically deleted
+- Purchase status remains with Google Play account
+- No data remains on any server
+
+8. DATA SECURITY
+
+Zero risk of:
+- Data breaches or hacks
+- Unauthorized access to your information
+- Data leaks or exposure
+- Identity theft through our app
+
+Your device's built-in Android security protects local settings.
+
+9. YOUR PRIVACY RIGHTS
+
+Under GDPR, CCPA, and other privacy laws:
+
+- Right to Access: No data collected, all data on your device only
+- Right to Deletion: Uninstall app to remove all local data
+- Right to Portability: Not applicable - no data collected
+- Right to Opt-Out: Opt out of personalized ads in Android settings
+- Right to Object: Disable location permission in device settings
+- Right to Be Informed: This privacy policy provides full transparency
+
+10. INTERNATIONAL USERS & DATA TRANSFERS
+
+No cross-border data transfers
+No data processing in different countries
+No compliance issues with international laws
+
+All processing happens on your device, wherever you are located.
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this privacy policy from time to time.
+
+How we notify you:
+- Update "Last Updated" date
+- Display app notification for significant changes
+- Post updated policy in app
+
+Continued use after changes = acceptance of updated policy.
+
+12. CONTACT US
+
+For privacy questions, concerns, or requests:
+
+Email: support@mysticlabs.com
+Developer: MysticLabs
+App: Compass Pro
+Response Time: Within 48 hours
+
+We take your privacy seriously and will address all inquiries promptly.
+
+
+13. GOVERNING LAW
+
+This privacy policy is governed by the laws of the United Arab Emirates. Disputes will be resolved in the courts of Dubai, UAE.
+
+
+14. YOUR CONSENT
+
+By downloading, installing, and using Compass Pro, you consent to this Privacy Policy and our data practices as described.
+
+© 2025 MysticLabs. All rights reserved.
+
+Compass Pro is committed to your privacy. We believe in zero data collection and complete transparency.
